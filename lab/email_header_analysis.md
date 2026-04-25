@@ -64,7 +64,7 @@ If I reply to this email, which address will it be sent to?
 
 🚨 This is a **strong phishing indicator**
 
- ![Q2](screenshots/eq2.png)
+ ![Q2](../screenshots/eq2.png)
 
 
 ## 3️⃣ Source IP Address Analysis
@@ -83,7 +83,7 @@ What IP address was the email sent from?
 🚨 In this case:
 - The IP address is suspicious and likely not from a trusted mail server  
 
- ![Q3](screenshots/eq3.png)
+ ![Q3](../screenshots/eq3.png)
 
 
 
