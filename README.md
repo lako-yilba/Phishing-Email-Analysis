@@ -6,9 +6,10 @@ This repository contains phishing email investigations performed using the LetsD
 
 ## 📂 Repository Structure
 
-- **LetsDefend-Labs**
+- **Labs**
   - Email Header Analysis
-)
+  - Excel_4.0_Macro_Malware_SOC146
+
 
 ---
 
@@ -25,8 +26,10 @@ This repository contains phishing email investigations performed using the LetsD
 
 - LetsDefend  
 - Email Header Analysis  
-- VirusTotal (future labs)  
-- Wireshark (future labs)  
+- VirusTotal 
+- Wireshark
+- Any.Run
+- Mxlookbox
 
 ---
 
